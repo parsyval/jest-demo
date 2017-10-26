@@ -1,4 +1,4 @@
-// STEP-02 => SNAPSHOTS
+// STEP-04 => WATCHING
 
 const movieList = [
 	{title: 'Frozen', tags:'kids,animation'},

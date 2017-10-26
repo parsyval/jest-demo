@@ -7,6 +7,7 @@ const movieList = [
 	{title: 'HungerGames', tags:'action,sf'},
 	{title: 'ET', tags:'sf,alien,old'},
 	{title: 'Twilight', tags:'love,vampire'},
+	{title: 'Frozen2', tags:'kids,animation,suite'},
 ]
 
 function searchMovies(query){

@@ -1,4 +1,4 @@
-// STEP-04 => WATCHING
+// STEP-04 => WATCHING / COVERAGE
 
 const movieList = [
 	{title: 'Frozen', tags:'kids,animation'},

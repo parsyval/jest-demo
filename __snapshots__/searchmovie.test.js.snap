@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Returns the movies that matches the query 1`] = `
+Array [
+  Object {
+    "tags": "kids,animation",
+    "title": "Frozen",
+  },
+  Object {
+    "tags": "kids,animation,fish",
+    "title": "FindingNemo",
+  },
+  Object {
+    "tags": "kids,animation,suite",
+    "title": "Frozen2",
+  },
+]
+`;

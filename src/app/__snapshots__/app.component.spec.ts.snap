@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppComponent JEST TEST HTML Should change when the button is clicked 1`] = `"I'm triggered"`;
